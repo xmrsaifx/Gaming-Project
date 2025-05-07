@@ -6,7 +6,7 @@ BuildingAssets.sol
 IConnected.sol
 MainPackage.sol
 NFTMarketplace.sol
-PrintCard.sol
+PlotLand.sol
 SepoliaUSDT.sol
 1. BHTTokens.sol
 Overview
@@ -42,14 +42,14 @@ Key Features
 NFT Listing: Allow players to list their NFTs for sale.
 NFT Purchase: Enable players to buy NFTs from other players.
 NFT Transfer: Facilitate the transfer of NFTs between players.
-6. PrintCard.sol
+6. PlotLand.sol
 Overview
-Manages the creation and distribution of physical cards that correspond to digital assets in the game.
+Manages the creation and distribution of plot Land that correspond to digital assets in the game.
 Key Features
-Card Creation: Generate physical cards based on digital assets.
-Card Distribution: Distribute cards to players.
-Card Verification: Verify the authenticity of physical cards.
-7. SepoliaUSDT.sol
+Land Creation: Generate physical cards based on digital assets.
+Land Distribution: Distribute cards to players.
+Land Verification: Verify the authenticity of physical cards.
+8. SepoliaUSDT.sol
 Overview
 Handles the integration of USDT (Tether) stablecoin on the Sepolia test network for in-game transactions.
 Key Features
