@@ -46,9 +46,9 @@ NFT Transfer: Facilitate the transfer of NFTs between players.
 Overview
 Manages the creation and distribution of plot Land that correspond to digital assets in the game.
 Key Features
-Land Creation: Generate physical cards based on digital assets.
-Land Distribution: Distribute cards to players.
-Land Verification: Verify the authenticity of physical cards.
+Land Creation: Generate plot land based on digital assets.
+Land Distribution: Distribute land to players.
+Land Verification: Verify the authenticity of plot land.
 8. SepoliaUSDT.sol
 Overview
 Handles the integration of USDT (Tether) stablecoin on the Sepolia test network for in-game transactions.
